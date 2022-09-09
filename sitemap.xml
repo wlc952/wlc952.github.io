@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://lchao.me/tags/index.html</loc>
+    
+    <lastmod>2022-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lchao.me/categories/index.html</loc>
+    
+    <lastmod>2022-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lchao.me/404.html</loc>
+    
+    <lastmod>2022-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lchao.me/cn/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lchao.me/en/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lchao.me/archive/index.html</loc>
+    
+    <lastmod>2017-03-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lchao.me/about/index.html</loc>
+    
+    <lastmod>2016-04-20</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://lchao.me/</loc>
+    <lastmod>2022-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://lchao.me/tags/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://lchao.me/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
